@@ -60,12 +60,12 @@ nav ul {
 }
 
 .exp::after {
-    content: url(img/gift.png);
+    content: url(img/gift.webp);
     padding: 0.1rem;
 }
 
 .exp:hover::after {
-    content: url(img/gift1.png);
+    content: url(img/gift1.webp);
 }
 
 .toggle-btn {
@@ -119,7 +119,7 @@ nav ul {
 }
 
 .exp1::after {
-    content: url(img/gift-size.png);
+    content: url(img/gift-size.webp);
     padding: 0.5rem;
 
 }
